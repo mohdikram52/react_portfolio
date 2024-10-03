@@ -1,7 +1,7 @@
 import React from "react";
 import Box from "@mui/material/Box";
 import Testimonial from "./Testimonials";
-import { skills } from './data';
+import { skills } from '../data';
 
 export default function Skills() {
   return (

@@ -1,5 +1,5 @@
 import React from "react";
-import { profileData } from "./data";
+import { profileData } from "../data";
 import {
   Container,
   Card,
